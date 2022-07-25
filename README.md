@@ -5,7 +5,7 @@ After extracting and outputting data, I like to visualize in R, mainly using ggp
 I'm always learning and adapting on how complete a task the most efficiently. 
 
 I'm always open to collaborations, especially when involving data visualization (#tidytuesday!)! 
-- 📫 Email: mlmiraglia99@gmail.com
+- 📫 Email: miragliamolly@gmail.com
 
 
 <!---
