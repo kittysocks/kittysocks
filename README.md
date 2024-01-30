@@ -8,7 +8,7 @@
 - I like to visualize in R, mainly using ggplot2, but have dabbled in Tableau.
 - I'm always learning and adapting on how complete a task the most efficiently. 
 
-I'm always open to collaborations, especially when involving data visualization (#tidytuesday!)! 
+I'm always open to collaborations!
 - 📫 Email: miragliamolly@gmail.com
 
 
