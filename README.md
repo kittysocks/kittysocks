@@ -3,7 +3,7 @@
 - I've been working as a Data and Information Analyst since Nov. 2022! All my code lives in a private repository on a separate GitHub account, so that's why my contributions here are a little low! 😇
 - Check out my portfolio! I'll be keeping my public work there :) [Portfolio](https://github.com/kittysocks/portfolio)
 - I'm working on getting my personal GitHub full of stuff again! I'm trying to be a more active in the #tidytuesday challenges! 
-- 
+  
 - 👀 My programming experience lies within multiple disciplines, phylogenetics, clinical research, oncology and currently Philadelphia Behavioral Health data. I'm always open to using my skills to help people in need, whether it be for research or social justice!
 - I enjoy parsing through text files using  Python and playing around with SQL databases. My main method of cleaning data is using R and the #tidyverse package 🤠
 - I like to visualize in R, mainly using ggplot2, but have dabbled in Tableau.
