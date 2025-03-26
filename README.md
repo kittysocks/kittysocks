@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kittysocks / Molly Miraglia. Please feel free to look around my repositories!
 
-- I've been working as a Data and Information Analyst since Nov. 2022! All my code from work lives in a private repository on a separate GitHub account, so that's why my contributions here are a little low! 😇
+- I've been in the Data Analytics world career-wise since Nov. 2022! All my code from work lives in a private repository on a separate GitHub account, so that's why my contributions here are a little low! 😇
 
   ## Portfolio!! 
 - Check out my portfolio! I'll be keeping my public work there :) [Portfolio](https://github.com/kittysocks/portfolio)
